@@ -68,7 +68,7 @@ Capture D'écran du projets
 
 ## Liens
 
-- Liens de la page: [Add live site URL here](https://your-live-site-url.com)
+- Liens de la page: [Ici](https://cine-search-app.vercel.app/)
 
 ## Auteur
 
